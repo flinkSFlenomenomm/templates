@@ -9,6 +9,7 @@ INDEX:
 ======
  00 Diese README.md Markdown Datei - 
    - [README.md](README.md)
+   - README.md
    - 
 
  Über dieses Vorlagen Repositorie
@@ -26,4 +27,4 @@ this is an example templates repository
 
 ##### Benötigst du weitere Hilfe?
 
-[Support kontaktieren](https://support.github.com/)
+
