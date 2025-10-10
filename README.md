@@ -1,25 +1,37 @@
-# README.md
-Datei des Vorlagen Repositories
+# README
+*README.md Datei des Vorlagen Repositories*
 <!-- README.md Datei des Vorlagen Repositories -->
-## Vorlagen Repositories
+## FLiNN's Vorlagen Repositorie
 
-**In diesem Artikel**
+**Hier findet ihr einige verschiedene Vorlagen die das Arbeiten Mit GitHub vereinfachen sollen**
 
-INDEX:
-======
- 00 Diese README.md Markdown Datei - 
-   - [README.md](README.md)
-   - README.md
-   - 
+## INDEX:
+=========
+#### Inhalt dieses Vorlagen Repositorie
+ 
+- [README](README.md)
+ - README.md
+ - *.md
 
- Über dieses Vorlagen Repositorie
- - Markdown Syntax erkunden
+- [Markdown Syntax](syntax.md) erkunden
+ - Überschriften
  - Formatieren von Text
+
 
 
 
 templates
 this is an example templates repository
+
+
+## Lizenz
+
+ * [LICENSE]()
+
+
+#### Changelog
+
+ * [Changelog History](history.md)
 
 ## Hilfe und Support
 
@@ -27,4 +39,8 @@ this is an example templates repository
 
 ##### Benötigst du weitere Hilfe?
 
+Kontaktiere Mich!
 
+## Über
+
+*Author:* [flinkSFlenomenom](https://github.com/flinkSFlenomenom)
