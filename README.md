@@ -1,37 +1,30 @@
-# README
-*README.md Datei des Vorlagen Repositories*
-<!-- README.md Datei des Vorlagen Repositories -->
-## FLiNN's Vorlagen Repositorie
+# Mein Vorlagen Repo
 
-**Hier findet ihr einige verschiedene Vorlagen die das Arbeiten Mit GitHub vereinfachen sollen**
+>[!NOTE:]FLiNN's Vorlagen Repo
+> Dieses Repo stellt Vorlagen verschiedener Dateitypen zum bearbeiten bereit.
 
-## INDEX:
-=========
-#### Inhalt dieses Vorlagen Repositorie
- 
+<!-- INDEX -->
+## INDEX
+*Inhaltsverzeichnis von FLiNN's Vorlagen Repo*
+
 - [README](README.md)
- - README.md
- - *.md
+- [INDEX](INDEX.md)
+- [BESCHREIBUNG](DESCRIPTION.md)
+- [LICENSE](LICENSE)
+- [CONTACT.md](CONTACT.md)
+- [CHANGELOG.md](CHANGELOG.md)
+- [Templates](templates/)
 
-- [Markdown Syntax](syntax.md) erkunden
- - Überschriften
- - Formatieren von Text
+<!-- DESCRIPTION -->
+## BESCHREIBUNG
+**Hier findet ihr einige verschiedene Datei-Vorlagen für das Arbeiten Mit GitHub**
 
+<!-- LICENCE -->
 
+## LIZENZ
+ * [LIZENZ](LICENSE)
 
-
-templates
-this is an example templates repository
-
-
-## Lizenz
-
- * [LICENSE]()
-
-
-#### Changelog
-
- * [Changelog History](history.md)
+<!-- CONTACT -->
 
 ## Hilfe und Support
 
@@ -39,8 +32,11 @@ this is an example templates repository
 
 ##### Benötigst du weitere Hilfe?
 
-Kontaktiere Mich!
 
-## Über
+## Kontakt
+Für Fragen und Anregungen, besucht mich auf:
+- GitHub: [flinkSFlenomenom](https://github.com/flinkSFlenomenom)
+- Email:  flinks@tutamail.com
 
-*Author:* [flinkSFlenomenom](https://github.com/flinkSFlenomenom)
+
+***Author:** [flinkSFlenomenom](https://github.com/flinkSFlenomenom)*
