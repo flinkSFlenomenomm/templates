@@ -1,0 +1,3 @@
+# Plain Text Vorlage-Datei:
+# Ersetze det Titel und Füge deinen individuellen
+# Inhalt zur Text.txt Datei hinzu 
